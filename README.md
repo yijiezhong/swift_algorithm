@@ -1,2 +1,2 @@
 # swift_algorithm
-algorithm sample in Apple swift language
+Algorithm code snippet in Apple Swift language
